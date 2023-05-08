@@ -19,5 +19,6 @@ public class VucutKitleEndeksi {
         vucutKitleIndeksi = kilo / (boy * boy);
 
         System.out.println("Vücut Kitle İndeksiniz : " + vucutKitleIndeksi);
+
     }
 }
