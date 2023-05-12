@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/ATMprojesi/ATMprojesi.iml" filepath="$PROJECT_DIR$/Hafta01/ATMprojesi/ATMprojesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/ArtikYil/ArtikYil.iml" filepath="$PROJECT_DIR$/Hafta01/ArtikYil/ArtikYil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/BasamakTopla/BasamakTopla.iml" filepath="$PROJECT_DIR$/Hafta01/BasamakTopla/BasamakTopla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/BurcBul/BurcBul.iml" filepath="$PROJECT_DIR$/Hafta01/BurcBul/BurcBul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/CiftToplami/CiftToplami.iml" filepath="$PROJECT_DIR$/Hafta01/CiftToplami/CiftToplami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/CinZodyagiDegeri/CinZodyagiDegeri.iml" filepath="$PROJECT_DIR$/Hafta01/CinZodyagiDegeri/CinZodyagiDegeri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/DaireDilimiAlani/DaireDilimiAlani.iml" filepath="$PROJECT_DIR$/Hafta01/DaireDilimiAlani/DaireDilimiAlani.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/DortBesinKuvveti/DortBesinKuvveti.iml" filepath="$PROJECT_DIR$/Hafta01/DortBesinKuvveti/DortBesinKuvveti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/ElmasCiz/ElmasCiz.iml" filepath="$PROJECT_DIR$/Hafta01/ElmasCiz/ElmasCiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/EtkinlikOner/EtkinlikOner.iml" filepath="$PROJECT_DIR$/Hafta01/EtkinlikOner/EtkinlikOner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/Hafta01.iml" filepath="$PROJECT_DIR$/Hafta01/Hafta01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/HarmonikSayi/HarmonikSayi.iml" filepath="$PROJECT_DIR$/Hafta01/HarmonikSayi/HarmonikSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/Hafta01/HesapMakinesi/HesapMakinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/HipotenusBulma/HipotenusBulma.iml" filepath="$PROJECT_DIR$/Hafta01/HipotenusBulma/HipotenusBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/KdvHesap/KdvHesap.iml" filepath="$PROJECT_DIR$/Hafta01/KdvHesap/KdvHesap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/KombinasyonHesabi/KombinasyonHesabi.iml" filepath="$PROJECT_DIR$/Hafta01/KombinasyonHesabi/KombinasyonHesabi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/ManavKasa/ManavKasa.iml" filepath="$PROJECT_DIR$/Hafta01/ManavKasa/ManavKasa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/Ortalama/Ortalama.iml" filepath="$PROJECT_DIR$/Hafta01/Ortalama/Ortalama.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatikaOdevler.iml" filepath="$PROJECT_DIR$/PatikaOdevler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/SayiSiralama/SayiSiralama.iml" filepath="$PROJECT_DIR$/Hafta01/SayiSiralama/SayiSiralama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/SinifGecmeDurumu/SinifGecmeDurumu.iml" filepath="$PROJECT_DIR$/Hafta01/SinifGecmeDurumu/SinifGecmeDurumu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Hafta01/Taksimetre/Taksimetre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/UcVeDorteTam/UcVeDorteTam.iml" filepath="$PROJECT_DIR$/Hafta01/UcVeDorteTam/UcVeDorteTam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/UcakBileti/UcakBileti.iml" filepath="$PROJECT_DIR$/Hafta01/UcakBileti/UcakBileti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/UcgenAlani/UcgenAlani.iml" filepath="$PROJECT_DIR$/Hafta01/UcgenAlani/UcgenAlani.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/UsHesabi/UsHesabi.iml" filepath="$PROJECT_DIR$/Hafta01/UsHesabi/UsHesabi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/UserLogin/UserLogin.iml" filepath="$PROJECT_DIR$/Hafta01/UserLogin/UserLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta01/VucutKitleEndeksi/VucutKitleEndeksi.iml" filepath="$PROJECT_DIR$/Hafta01/VucutKitleEndeksi/VucutKitleEndeksi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta02/asd/asd.iml" filepath="$PROJECT_DIR$/Hafta02/asd/asd.iml" />
     </modules>
   </component>
 </project>
