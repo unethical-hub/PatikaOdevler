@@ -27,7 +27,7 @@ public class KDVHESAP {
         kdvTutari = kdvliFiyat - kdvsizFiyat;
 
         System.out.println("KDV'siz fiyat: " + kdvsizFiyat + " TL");
-        System.out.println("kdvOrani = " + kdvOrani + " TL");
+        System.out.println("kdvOrani = " + "% " + kdvOrani);
         System.out.println("KDV tutarı: " + kdvTutari + " TL");
         System.out.println("KDV'li fiyat: " + kdvliFiyat + " TL");
 
