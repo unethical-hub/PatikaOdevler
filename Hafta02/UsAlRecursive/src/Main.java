@@ -9,8 +9,8 @@ public class Main {
         System.out.print("Üs değerini giriniz: ");
         int exponent = scanner.nextInt();
 
-        int sonuc = power(base, exponent);
-        System.out.println(base + "^" + exponent + " = " + sonuc);
+        int result = power(base, exponent);
+        System.out.println(base + "^" + exponent + " = " + result);
     }
 
     public static int power(int base, int exponent) {
