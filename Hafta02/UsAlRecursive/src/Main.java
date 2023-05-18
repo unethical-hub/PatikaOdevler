@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Taban değerini giriniz: ");
-        int base = scanner.nextInt();
+        int base = sc.nextInt();
         System.out.print("Üs değerini giriniz: ");
-        int exponent = scanner.nextInt();
+        int exponent = sc.nextInt();
 
         int result = power(base, exponent);
         System.out.println(base + "^" + exponent + " = " + result);
