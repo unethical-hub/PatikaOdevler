@@ -9,27 +9,27 @@ public class Main {
         System.out.print("Bir sayi giriniz: ");
         int number = sc.nextInt();
 
-        if(asalMi(number, 2)){
+        if (asalMi(number, 2)) {
             System.out.println(number + " asaldir.");
-        }else{
+        } else {
             System.out.println(number + " asal degildir.");
         }
     }
 
-    public static boolean asalMi(int number, int divider){
+    public static boolean asalMi(int number, int divider) {
 
-        if(number == 2){
+        if (number == 2) {
             return true;
         }
 
-        if(number == 1 || number % divider == 0){
+        if (number == 1 || number % divider == 0) {
             return false;
         }
 
-        if(divider > Math.sqrt(number)){
+        if (divider > Math.sqrt(number)) {
             return true;
         }
 
-        return asalMi(number, divider+1);
+        return asalMi(number, divider + 1);
     }
 }
