@@ -3,7 +3,6 @@ public class Ring {
     Fighter f2;
     int minWeight;
     int maxWeight;
-
     public Ring(Fighter f1, Fighter f2, int minWeight, int maxWeight) {
         this.f1 = f1;
         this.f2 = f2;
