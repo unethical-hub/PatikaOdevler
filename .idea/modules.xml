@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Hafta01/ATMprojesi/ATMprojesi.iml" filepath="$PROJECT_DIR$/Hafta01/ATMprojesi/ATMprojesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta01/ArtikYil/ArtikYil.iml" filepath="$PROJECT_DIR$/Hafta01/ArtikYil/ArtikYil.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/AsalRecursive/AsalRecursive.iml" filepath="$PROJECT_DIR$/Hafta02/AsalRecursive/AsalRecursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta03/AsansorSimulasyonu/AsansorSimulasyonu.iml" filepath="$PROJECT_DIR$/Hafta03/AsansorSimulasyonu/AsansorSimulasyonu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/BYazdiranProgram/BYazdiranProgram.iml" filepath="$PROJECT_DIR$/Hafta02/BYazdiranProgram/BYazdiranProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta01/BasamakTopla/BasamakTopla.iml" filepath="$PROJECT_DIR$/Hafta01/BasamakTopla/BasamakTopla.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/BoksOyunu/BoksOyunu.iml" filepath="$PROJECT_DIR$/Hafta02/BoksOyunu/BoksOyunu.iml" />
@@ -29,7 +30,9 @@
       <module fileurl="file://$PROJECT_DIR$/Hafta03/Hafta03.iml" filepath="$PROJECT_DIR$/Hafta03/Hafta03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta04/Hafta04.iml" filepath="$PROJECT_DIR$/Hafta04/Hafta04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta05/Hafta05.iml" filepath="$PROJECT_DIR$/Hafta05/Hafta05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta06/Hafta06.iml" filepath="$PROJECT_DIR$/Hafta06/Hafta06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta01/HarmonikSayi/HarmonikSayi.iml" filepath="$PROJECT_DIR$/Hafta01/HarmonikSayi/HarmonikSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta03/HayvanatBahcesiYonetimi/HayvanatBahcesiYonetimi.iml" filepath="$PROJECT_DIR$/Hafta03/HayvanatBahcesiYonetimi/HayvanatBahcesiYonetimi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta01/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/Hafta01/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta01/HipotenusBulma/HipotenusBulma.iml" filepath="$PROJECT_DIR$/Hafta01/HipotenusBulma/HipotenusBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta01/KdvHesap/KdvHesap.iml" filepath="$PROJECT_DIR$/Hafta01/KdvHesap/KdvHesap.iml" />
@@ -39,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/Hafta01/MinMaxSayiyiBulma/MinMaxSayiyiBulma.iml" filepath="$PROJECT_DIR$/Hafta01/MinMaxSayiyiBulma/MinMaxSayiyiBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta01/MukemmelSayi/MukemmelSayi.iml" filepath="$PROJECT_DIR$/Hafta01/MukemmelSayi/MukemmelSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/Hafta02/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta03/OnlineFilmSistemi/OnlineFilmSistemi.iml" filepath="$PROJECT_DIR$/Hafta03/OnlineFilmSistemi/OnlineFilmSistemi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta01/Ortalama/Ortalama.iml" filepath="$PROJECT_DIR$/Hafta01/Ortalama/Ortalama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/Palindrom/Palindrom.iml" filepath="$PROJECT_DIR$/Hafta02/Palindrom/Palindrom.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/Palindromik/Palindromik.iml" filepath="$PROJECT_DIR$/Hafta02/Palindromik/Palindromik.iml" />
@@ -52,6 +56,8 @@
       <module fileurl="file://$PROJECT_DIR$/Hafta01/UcVeDorteTamBolunen/UcVeDorteTamBolunen.iml" filepath="$PROJECT_DIR$/Hafta01/UcVeDorteTamBolunen/UcVeDorteTamBolunen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta01/UcakBileti/UcakBileti.iml" filepath="$PROJECT_DIR$/Hafta01/UcakBileti/UcakBileti.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta01/UcgenAlani/UcgenAlani.iml" filepath="$PROJECT_DIR$/Hafta01/UcgenAlani/UcgenAlani.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta03/UcusYonetimSistemi/UcusYonetimSistemi.iml" filepath="$PROJECT_DIR$/Hafta03/UcusYonetimSistemi/UcusYonetimSistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta03/UniversiteYonetimSistemi/UniversiteYonetimSistemi.iml" filepath="$PROJECT_DIR$/Hafta03/UniversiteYonetimSistemi/UniversiteYonetimSistemi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/UsAlRecursive/UsAlRecursive.iml" filepath="$PROJECT_DIR$/Hafta02/UsAlRecursive/UsAlRecursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta01/UsHesabi/UsHesabi.iml" filepath="$PROJECT_DIR$/Hafta01/UsHesabi/UsHesabi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta01/UserLogin/UserLogin.iml" filepath="$PROJECT_DIR$/Hafta01/UserLogin/UserLogin.iml" />
